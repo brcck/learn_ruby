@@ -1,3 +1,4 @@
+# rubocop:disable all
 # # Book Titles
 #
 # # Topics
