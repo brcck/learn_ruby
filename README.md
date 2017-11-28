@@ -1,3 +1,5 @@
+These are exercises for [The Odin Project: Web Development 101.](https://www.theodinproject.com/courses/web-development-101/lessons/ruby)
+
 Test First Ruby -- RSpec 3 Edition
 ==========
 
